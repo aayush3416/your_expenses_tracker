@@ -34,4 +34,5 @@ To create this project, I used React, JavaScript, HTML, CSS for the frontend. Fo
 
 ## Demo
 
-https://user-images.githubusercontent.com/87783633/155894893-9aa00b4b-72cf-4a30-9d27-a71b79d2d1c3.mp4
+https://user-images.githubusercontent.com/87783633/155895153-1656bf21-76ce-4943-abd5-a91326d6ad82.mp4
+
