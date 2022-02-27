@@ -1,4 +1,4 @@
-# Expense Tracker (MERN)
+# Expense Tracker
 
 > Your personal Expense Tracker App
 
@@ -9,10 +9,6 @@ In January 2022, I started working as a Software Developer at Accipiter Radar Te
 To create this project, I used React, JavaScript, HTML, CSS for the frontend. For the backend in my app I used, MongoDB, Node.js, Express.js, and Postman to test my api endpoints. 
 
 ## Usage
-
-```
-change config.env file in config folder
-```
 
 ```
  npm install
@@ -35,3 +31,6 @@ change config.env file in config folder
  # Prod
  npm start
 ```
+
+## Demo
+
